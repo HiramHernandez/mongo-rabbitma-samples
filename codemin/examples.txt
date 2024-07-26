@@ -1,1 +1,3 @@
 https://blog.codmind.com/tag/spring-boot/
+
+https://techwasti.com/spring-boot-azure-blob-storage-crud-example-using-rest-api
